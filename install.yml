@@ -1,0 +1,62 @@
+---
+
+- hosts: all
+  roles:
+  - role: osxc.packages
+    brew_taps:
+    - caskroom/fonts
+    - caskroom/versions
+    brew_packages:
+    - bash
+    - bash-completion
+    - coreutils
+    - ctags
+    - findutils
+    - git
+    - git-crypt
+    - gpg
+    - lesspipe
+    - mackup
+    - node
+    - rbenv
+    - ruby-build
+    - ssh-copy-id
+    - svn
+    - the_silver_searcher
+    - tmux
+    - tree
+    - vim
+    - watch
+    - wget
+    cask_packages:
+    - adium
+    - airfoil
+    - alfred
+    - font-anonymous-pro-for-powerline
+    - iterm2
+    - bartender
+    - bittorrent-sync
+    - caffeine
+    - cloudup
+    - dash
+    - dropbox
+    - google-chrome
+    - dropbox
+    - firefox
+    - google-hangouts
+    - insync
+    - menumeters
+    - notational-velocity
+    - seil
+    - sequel-pro
+    - silverlight
+    - skype
+    - spectacle
+    - steam
+    - sublime-text3
+    - taskpaper
+    - textmate
+    - transmit
+    - vagrant
+    - virtualbox
+    - vlc
