@@ -39,21 +39,31 @@
     - bittorrent-sync
     - caffeine
     - cloudup
+    - cyberduck
     - dash
     - dropbox
+    - evernote
+    - filebot
     - firefox
     - font-anonymous-pro-for-powerline
     - insync
     - iterm2
+    - gitbook
     - google-chrome
     - google-chrome-canary
     - google-hangouts
+    - handbrake
+    - handbrakebatch
+    - handbrakecli
+    - harvest
     - menumeters
     - notational-velocity
+    - prey
     - seil
     - sequel-pro
     - silverlight
     - skype
+    - slack
     - spectacle
     - spotify
     - steam
@@ -64,3 +74,4 @@
     - vagrant
     - virtualbox
     - vlc
+    - wireshark
