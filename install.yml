@@ -36,6 +36,7 @@
     - atom
     - atom-shell
     - bartender
+    - betterzipql
     - bittorrent-sync
     - caffeine
     - cloudup
@@ -59,6 +60,13 @@
     - menumeters
     - notational-velocity
     - prey
+    - qlcolorcode
+    - qlimagesize
+    - qlmarkdown
+    - qlprettypatch
+    - qlstephen
+    - quicklook-csv
+    - quicklook-json
     - seil
     - sequel-pro
     - silverlight
@@ -68,10 +76,12 @@
     - spotify
     - steam
     - sublime-text3
+    - suspicious-package
     - taskpaper
     - textmate
     - transmit
     - vagrant
     - virtualbox
     - vlc
+    - webpquicklook
     - wireshark
