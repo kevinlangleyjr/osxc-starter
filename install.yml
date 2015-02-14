@@ -1,5 +1,4 @@
 ---
-
 - hosts: all
   roles:
   - role: osxc.packages
@@ -28,6 +27,7 @@
     - vim
     - watch
     - wget
+    - zsh
     cask_packages:
     - adium
     - airfoil
