@@ -47,8 +47,6 @@
     - filebot
     - firefox
     - font-anonymous-pro-for-powerline
-    - insync
-    - iterm2
     - gitbook
     - google-chrome
     - google-chrome-canary
@@ -57,9 +55,10 @@
     - handbrakebatch
     - handbrakecli
     - harvest
+    - insync
+    - iterm2
     - menumeters
     - notational-velocity
-    - prey
     - qlcolorcode
     - qlimagesize
     - qlmarkdown
